@@ -50,4 +50,4 @@ seven_segment_symbols = [
 banned_letters = 'gkmqvwxz'
 regex_banned_letters = '[gkmqvwxz]'
 
-filename = 'data/words.txt'
+filename = '../data/words.txt'
